@@ -1,0 +1,139 @@
+.nav li{
+    list-style: none;
+    
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+
+}
+.pln{
+    color: #00ED82;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 800px ;
+    margin-top: 133px;
+}
+.main{
+    background: url(./ckzoylttk003x1v6mcd4p0gk2-ckxgnvin29r771v5fyutjbf5c-bundle-6400x2640-desktop-1x\ \(1\).jpg);
+    height: 1300px;
+    width: 100%;
+
+}
+.li{
+    font-size:30px;
+    color: white;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.img1{
+    
+    width: 749px;
+    margin-left: 445px;
+}
+.p1{
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 300px;
+}
+.p2{
+    color: white;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 748px;
+    margin-top: -64px;
+}
+button{
+    background-color: #00ED82;
+    width: 600px;
+    height: 50px;
+    margin-left: 650px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.a1{
+    color: whitesmoke;
+    margin-left: 835px;
+    margin-top: 10px;
+}
+.a2{
+    color: whitesmoke;
+}
+.a3{
+    color: whitesmoke;
+    margin-left: 840px;
+    margin-top: 200pxpx;
+    /* margin-bottom: -48px; */
+    font-size: 22px;
+}
+.h1{
+    margin-left: 600px;
+    font-size: 30px;
+    color: white;
+}
+.p2{
+    color: white;
+    font-size: 22px;
+    margin-top: 35px;
+    /* margin-right: 296px; */
+    margin-left: 486px;
+}
+.sec-2{
+   margin-top: 100px; 
+}
+.p3{
+    color: white;
+    font-size: 22px;
+    margin-top: -25px;
+    /* margin-right: 296px; */
+    margin-left: 865px;
+}
+.pln1{
+    color: #00ED82;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-left: 800px ;
+    margin-top: -100px;
+
+}
+h4{
+    color: #00ED82;
+    margin-left: 609px;
+    margin-top: 366px;
+    font-size: 28px;
+}
+.white{
+    color: white;
+    margin-left: 458px;
+    font-size: 96px;
+}
+.wh{
+    color: white;
+    margin-left: 589px;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.place{
+    display: flex;
+    justify-content:left;
+    margin-left: 50px;
+}
+.middle{
+    background: url(./baground.jpg);
+    background-size: cover;
+    height: 1201px;
+    
+   
+}
+.imz{
+    display: flex;
+    justify-content:left;
+   align-items: center;
+}
+.lin{
+    display: flex;
+}
+.az{
+    margin-top: 22px;
+}
